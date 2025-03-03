@@ -57,7 +57,10 @@ This project focuses on detecting network attacks using machine learning techniq
 - Deployment as a scalable web service
 
 
-## Author
 
-[NasimKhalili]
+## 📬 Contact
+For any questions or collaborations, feel free to reach out:  
+
+📧 Email: khalilinassim85@gmail.com 
+🔗 GitHub: [YourGitHubProfile](https://github.com/Nasim-Khalili)  
 
